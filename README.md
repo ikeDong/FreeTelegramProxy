@@ -21,4 +21,6 @@ tg://proxy?server=13.94.57.110&port=9774&secret=7i-uHq4o79YxKB694EG5hYNob3N0dXBk
 ---
 如果未找到**MTPROTO**代理选项或点击连接无法使用，请将telegram升级至最新版
 
+若本身具有国外服务器，可以尝试通过项目：[mtg](https://github.com/9seconds/mtg)，自行搭建代理。
+
 服务器配置有限，请勿随意传播
