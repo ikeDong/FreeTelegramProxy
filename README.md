@@ -10,10 +10,12 @@
  
 ### 方法二
 点击该连接使用：
+
 https://t.me/proxy?server=13.94.57.110&port=9774&secret=7i-uHq4o79YxKB694EG5hYNob3N0dXBkYXRlLmlrZWRvbmcuY24
 
 ### 方法三
 复制以下内容至telegram中
+
 tg://proxy?server=13.94.57.110&port=9774&secret=7i-uHq4o79YxKB694EG5hYNob3N0dXBkYXRlLmlrZWRvbmcuY24
 
 ---
