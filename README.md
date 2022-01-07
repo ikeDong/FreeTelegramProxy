@@ -19,6 +19,6 @@ https://t.me/proxy?port=9774&secret=7i-uHq4o79YxKB694EG5hYNob3N0dXBkYXRlLmlrZWRv
 tg://proxy?server=13.94.57.110&port=9774&secret=7i-uHq4o79YxKB694EG5hYNob3N0dXBkYXRlLmlrZWRvbmcuY24
 
 ---
-如果为找到**MTPROTO**代理选项或点击连接无法使用，请将telegram升级至最新版
+如果未找到**MTPROTO**代理选项或点击连接无法使用，请将telegram升级至最新版
 
 服务器配置有限，请勿随意传播
