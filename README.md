@@ -5,6 +5,7 @@
 ### 方法一
 在telegram的**设置** --> **高级** --> **网络与代理**中选择**连接类型** --> 选择**自定义代理** --> **MTPROTO**
  ![image](https://user-images.githubusercontent.com/91770427/148501639-5af2d80c-79d4-485b-bf10-51bed53063fb.png)
+ 
  **服务器地址:** 13.94.57.110 ， **端口:** 9774 ， **密钥:** 7i-uHq4o79YxKB694EG5hYNob3N0dXBkYXRlLmlrZWRvbmcuY24
  
 ### 方法二
